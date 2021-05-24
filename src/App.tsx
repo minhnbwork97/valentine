@@ -137,7 +137,7 @@ function App() {
                 left: isDownMd ? "33%" : "33%",
               }}
             >
-              {`Love u Phanh <3`}
+              {``}
             </Typography>
             <img
               onClick={onClick}
